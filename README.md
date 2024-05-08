@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/muhammad-musawar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/muhammad-musawar/" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammadmusawar5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadmusawar5" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/@mmriphergaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mmriphergaming" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCXmGeFEFHDuajbPy-RSQ6Tg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mmriphergaming" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
